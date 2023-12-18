@@ -14,7 +14,8 @@ in terms of computation. By training Deep Learning models that
 can alternatively perform the same task, we aim to considerably
 decrease this cost in the long term.
 
-### Method— Our aim is to classify bug fix patterns based on
+### Method
+Our aim is to classify bug fix patterns based on
 their repair diff files and corresponding commit messages. To
 solve this problem, we employed a pre-trained Bidirectional
 Encoder Representations from Transformers (BERT) model for
